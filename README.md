@@ -23,7 +23,7 @@ docker-compose up
 
 ## Application access
 
-Open the web browser at: http://localhost:8080.
+Open the web browser at: http://localhost:8081/greeting.
 
 ## Routine tasks
 
