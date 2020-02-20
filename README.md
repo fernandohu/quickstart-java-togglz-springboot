@@ -1,6 +1,8 @@
-# Java with SpringBoot + Maven Quickstart
+# Java with SpringBoot + Togglz
 
-Project startup with Docker, Java and Spring Boot + Maven.
+Project startup with Docker, Java and Spring Boot + Togglz.
+
+After setting up the environment, you will have a working installation of Togglz, including Web Console.
 
 The goal of this project is to have a local environment where it is possible to build, run the Spring Boot-CLI and run the application from the command line.
 
@@ -24,6 +26,8 @@ docker-compose up
 ## Application access
 
 Open the web browser at: http://localhost:8081/greeting.
+
+To access the Togglz console at: http://localhost:8081/togglz-console.
 
 ## Routine tasks
 
